@@ -1,0 +1,6 @@
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\gestionareLoc\bin\Debug\gestionareLoc.dll
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\gestionareLoc\bin\Debug\gestionareLoc.pdb
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\gestionareLoc\obj\Debug\gestionareLoc.csproj.AssemblyReference.cache
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\gestionareLoc\obj\Debug\gestionareLoc.csproj.CoreCompileInputs.cache
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\gestionareLoc\obj\Debug\gestionareLoc.dll
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\gestionareLoc\obj\Debug\gestionareLoc.pdb

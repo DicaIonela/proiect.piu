@@ -1,0 +1,9 @@
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\bin\Debug\gestionareLoc.dll
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\bin\Debug\gestionareLoc.pdb
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\obj\Debug\NivelSto.ECC26E05.Up2Date
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\ionel\OneDrive\Desktop\laborator4piu\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
